@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Poison (Official Music Video)",
+  "base_artist": "Bell Biv DeVoe",
+  "createdAt": "2026-02-10T03:14:28.986776Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Poison Arrow",
+      "artist": "yeule",
+      "has_synced": true,
+      "path": "select/01_Poison_Arrow_yeule.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Poison",
+      "artist": "Laurie Anderson",
+      "has_synced": false,
+      "path": "select/02_Poison_Laurie_Anderson.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Poison",
+      "artist": "Aaliyah",
+      "has_synced": true,
+      "path": "select/03_Poison_Aaliyah.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Poison Glen",
+      "artist": "Clannad",
+      "has_synced": true,
+      "path": "select/04_Poison_Glen_Clannad.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Poison",
+      "artist": "Nicole Scherzinger",
+      "has_synced": true,
+      "path": "select/05_Poison_Nicole_Scherzinger.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Poison",
+      "artist": "Nicole Scherzinger",
+      "has_synced": true,
+      "path": "select/06_Poison_Nicole_Scherzinger.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Poison Tree",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/07_The_Poison_Tree_Moby.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Poison (feat. The Weeknd)",
+      "artist": "Aaliyah feat. The Weeknd",
+      "has_synced": true,
+      "path": "select/08_Poison_(feat._The_Weeknd)_Aaliyah_feat._The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Poison Whiskey",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/09_Poison_Whiskey_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Poison Whiskey (Demo Version)",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/10_Poison_Whiskey_(Demo_Version)_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Poison Whiskey (Demo)",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/11_Poison_Whiskey_(Demo)_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Poison (Cahill Club Mix)",
+      "artist": "Nicole Scherzinger",
+      "has_synced": false,
+      "path": "select/12_Poison_(Cahill_Club_Mix)_Nicole_Scherzinger.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Poison (Cahill radio edit)",
+      "artist": "Nicole Scherzinger",
+      "has_synced": true,
+      "path": "select/13_Poison_(Cahill_radio_edit)_Nicole_Scherzinger.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Poison",
+      "artist": "Bell Biv DeVoe",
+      "has_synced": false,
+      "path": "select/pl_01_Poison_Bell_Biv_DeVoe.txt"
+    }
+  ]
+}
